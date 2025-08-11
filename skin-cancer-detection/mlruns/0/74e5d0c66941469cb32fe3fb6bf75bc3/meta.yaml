@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hc/Documents/HAM10K/skin-cancer-detection/mlruns/0/74e5d0c66941469cb32fe3fb6bf75bc3/artifacts
+end_time: 1754654686293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74e5d0c66941469cb32fe3fb6bf75bc3
+run_name: mercurial-hog-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754654686287
+status: 3
+tags: []
+user_id: hc

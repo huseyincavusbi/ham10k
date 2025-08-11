@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hc/Documents/HAM10K/skin-cancer-detection/mlruns/0/1beaf7782fe74c7894b5d57ed85e2c5a/artifacts
+end_time: 1754656590235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1beaf7782fe74c7894b5d57ed85e2c5a
+run_name: chill-bass-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754656590229
+status: 3
+tags: []
+user_id: hc

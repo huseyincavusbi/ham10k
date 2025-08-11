@@ -1,0 +1,36 @@
+{
+  "model_info": {
+    "architecture": "seresnext101_32x8d",
+    "num_classes": 7,
+    "input_size": 224,
+    "model_a_path": "models/best_model_A_tuned.pth",
+    "model_b_path": "models/best_model_B_tuned.pth"
+  },
+  "class_names": [
+    "actinic_keratoses",
+    "basal_cell_carcinoma",
+    "benign_keratosis-like_lesions",
+    "dermatofibroma",
+    "melanocytic_nevi",
+    "melanoma",
+    "vascular_lesions"
+  ],
+  "preprocessing": {
+    "image_size": 224,
+    "normalize_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "normalize_std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  },
+  "inference": {
+    "batch_size": 32,
+    "device": "auto",
+    "use_tta": true
+  }
+}

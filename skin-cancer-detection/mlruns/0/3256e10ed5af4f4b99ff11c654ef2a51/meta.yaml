@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hc/Documents/HAM10K/skin-cancer-detection/mlruns/0/3256e10ed5af4f4b99ff11c654ef2a51/artifacts
+end_time: 1754655569416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3256e10ed5af4f4b99ff11c654ef2a51
+run_name: omniscient-smelt-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754655569410
+status: 3
+tags: []
+user_id: hc

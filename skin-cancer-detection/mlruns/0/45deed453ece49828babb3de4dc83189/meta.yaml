@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hc/Documents/HAM10K/skin-cancer-detection/mlruns/0/45deed453ece49828babb3de4dc83189/artifacts
+end_time: 1754655425682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45deed453ece49828babb3de4dc83189
+run_name: tasteful-koi-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754655425675
+status: 3
+tags: []
+user_id: hc

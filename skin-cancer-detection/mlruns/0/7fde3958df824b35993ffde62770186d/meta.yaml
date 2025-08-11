@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hc/Documents/HAM10K/skin-cancer-detection/mlruns/0/7fde3958df824b35993ffde62770186d/artifacts
+end_time: 1754654822316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fde3958df824b35993ffde62770186d
+run_name: nosy-mole-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754654822310
+status: 3
+tags: []
+user_id: hc

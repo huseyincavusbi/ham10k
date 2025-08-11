@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hc/Documents/HAM10K/skin-cancer-detection/mlruns/0/955eb3d503e04895a635e1bd50f09641/artifacts
+end_time: 1754655189459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 955eb3d503e04895a635e1bd50f09641
+run_name: learned-lynx-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754655189453
+status: 3
+tags: []
+user_id: hc
