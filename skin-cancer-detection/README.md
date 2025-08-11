@@ -56,7 +56,7 @@ src/
 
 ## 7. Quick Start (Local, CPU)
 ```bash
-git clone huseyincavus/ham10k_ai
+git clone huseyincavusbi/ham10k
 cd skin-cancer-detection
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
