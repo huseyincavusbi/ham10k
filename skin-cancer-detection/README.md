@@ -95,6 +95,8 @@ If `MODEL_A_PATH` / `MODEL_B_PATH` don’t exist, the backend automatically trie
 - Educational project – not a medical device.
 - Ensemble assumes both weight files exist; adjust code if using single model.
 - Confidence ≠ diagnosis; always seek professional evaluation.
+- 
+## Model files on [Hugging Face](https://huggingface.co/huseyincavus/ham10k_ai/tree/main)
 
 ## License
 MIT
